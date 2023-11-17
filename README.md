@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Abraham I. Rubin</h1>
-<h3 align="center">Programador Full Stack de Argentina, Buenos Aires.</h3>
+<h3 align="center">Programador Full Stack Junior de Argentina, Buenos Aires.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamrubin&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamrubin" /> </p>
 
@@ -8,8 +8,6 @@
 - Actualmente estoy trabajando en [B.A. Multiplica 2.0 Proyecto](https://github.com/AbrahamRubin/Proyecto-B.A.-Multiplica.git)
 
 - Actualmente estoy aprendiendo **HTML, CSS, javascript,python Y Diseño Gráfico.**
-
-- Preguntame sobre **HTML y CSS.**
 
 
 <h3 align="left">Languages and Tools:</h3>
